@@ -1,2 +1,2 @@
-# PGM_HWs
-Probabilistic Graphical models Homeworks 
+# PGM-Team
+PGM Team for homeworks
